@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">framestructure</string>
+
+
+    <string name="tab_home">Home</string>
+    <string name="tab_rank">Ranking</string>
+    <string name="tab_setting">Setting</string>
+    <string name="tab_my">Me</string>
+
+    <string name="category">category</string>
+
+</resources>
